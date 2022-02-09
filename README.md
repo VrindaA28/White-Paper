@@ -1,4 +1,47 @@
 # White-Paper
+**Table of Contents**
+
+Overview	3
+
+Traditional Marketing v/s Digital Marketing	4
+
+Types of Digital Marketing	5
+
+Search Engine Optimization	5
+
+Content Marketing	5
+
+Social Media Marketing	5
+
+Pay-per-click marketing	6
+
+Affiliate marketing	6
+
+Native advertising	6
+
+Marketing automation	7
+
+Email Marketing	7
+
+The benefits of digital marketing	8
+
+Scope	8
+
+Cost efficiency	8
+
+Quantifiable results	8
+
+Customization	8
+
+Retargeted ads	8
+
+Digital marketing creates growth	8
+
+Brand Image	9
+
+Key Takeaway	9
+
+
 _**Overview**_
 
 Digital Marketing is the art of promoting brands to connect with the prospective customers using digital communication such as the social media. Entrepreneurs, brands, and creators adopt digital advertising to market their products and services using technology. This document discusses the impact of digital marketing on the current market and its benefits.
@@ -52,10 +95,15 @@ According to the Content Marketing Institute, 61% of B2B content marketers incre
 
 Pay-per-click, or PPC, is posting an ad on a platform and paying every time someone clicks on it.
 When a spot is available on a search engine results page, the engine fills the spot with what is essentially an instant auction. An algorithm prioritizes each available ad based on several factors, including:
+
 	Ad quality
+
 	Keyword relevance
+
 	Landing page quality
+
 	Bid amount
+
 Each PPC campaign has 1 or more target actions that viewers are meant to complete after clicking an ad. These actions are known as conversions, and they can be transactional or non-transactional. Making a purchase is a conversion, but so is a newsletter signup or a call made to the customer.
 The target conversions can be tracked via preferred platform to assess 
 
@@ -73,18 +121,27 @@ When your consumers know exactly what they're getting, they'll feel better about
 **Marketing automation**
 
 Marketing automation uses software to power digital marketing campaigns, improving the efficiency and relevance of advertising. Marketing automation lets companies keep up with the expectation of personalization. It allows brands to:
+
 •	Collect and analyze consumer information
+
 •	Design targeted marketing campaigns
+
 •	Send and post marketing messages at the right times to the right audiences
+
 Many marketing automation tools use prospect engagement with a particular message to determine when and how to reach out next. This level of real-time customization means that you can effectively create an individualized marketing strategy for each customer without any additional time investment.
 
 **Email Marketing**
 
-Promotional messages sent to prospective customers via email is referred to as Email Marketing. Advertiser must keep the following points in mind when opting for Email Marketing 
+Promotional messages sent to prospective customers via email is referred to as Email Marketing. Advertiser must keep the following points in mind when opting for Email Marketing
+
 •	Individualizes the content, both in the body and in the subject line
+
 •	States clearly what kind of emails the subscriber will get
+
 •	Offers a clear unsubscribe option
+
 •	Integrates both transactional and promotional emails
+
 Email marketing is a proven, effective technique all on its own: 89% of surveyed professionals named  it as their most effective lead generator. It can be even better if you incorporate other techniques such as marketing automation, which lets you segment and schedule your emails so that they meet your customer's needs more effectively. 
 
 
@@ -122,6 +179,9 @@ Digital marketing should be one of the major focuses of almost any business’s 
 **Brand Image**
 
 Digital Marketing allows businesses to create engaging campaigns and keeping the viewers interested. When managing the social media business page, advertisers can create a dependable reputation thereby building customer loyalty.
+
+**Digital Marketing Strategy Flowchart**_
+![image](https://user-images.githubusercontent.com/99115168/153262965-38e5e1c5-508f-4b83-95b2-f5f5728de859.png)
 
 _**Key Takeaway**__
 
