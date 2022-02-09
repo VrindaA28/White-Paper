@@ -1,4 +1,5 @@
 # White-Paper
+
 _**Overview**_
 
 Digital Marketing is the art of promoting brands to connect with the prospective customers using digital communication such as the social media. Entrepreneurs, brands, and creators adopt digital advertising to market their products and services using technology. This document discusses the impact of digital marketing on the current market and its benefits.
@@ -122,6 +123,10 @@ Digital marketing should be one of the major focuses of almost any business’s 
 **Brand Image**
 
 Digital Marketing allows businesses to create engaging campaigns and keeping the viewers interested. When managing the social media business page, advertisers can create a dependable reputation thereby building customer loyalty.
+
+_**Digital Marketing Strategy Flowchart**_
+![image](https://user-images.githubusercontent.com/99115168/153262965-38e5e1c5-508f-4b83-95b2-f5f5728de859.png)
+
 
 _**Key Takeaway**__
 
